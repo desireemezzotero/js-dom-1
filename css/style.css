@@ -1,0 +1,12 @@
+#button {
+ margin-left: 85px;
+ display:flex;
+}
+
+.on {
+  display:none
+}
+
+.on.active {
+  display: block;
+}
